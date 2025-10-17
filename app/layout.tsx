@@ -1,3 +1,5 @@
+import React from "react";
+
 export const metadata = { title: "Todo List App" };
 
 import "./globals.css";
